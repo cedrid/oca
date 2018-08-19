@@ -15,8 +15,10 @@ public class JavaTest01 {
 class JavaTest01a {
     public static void main (String ...args){
         int x = 8;
+        int y = 5;
         for(; x>-1 ;x--)
             System.out.println(x);;
         System.out.println("valor final de x:" + x);
+        System.out.println("valor final de y:" + y);
     }
 }
