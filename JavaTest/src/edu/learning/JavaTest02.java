@@ -50,6 +50,17 @@ public class JavaTest02 {
         @Override
         public void colorear() {
         }
+
+		public void rellenar() {
+			// TODO Auto-generated method stub
+			
+		}
+
+		@Override
+		public void delinear() {
+			// TODO Auto-generated method stub
+			
+		}
     }
 
 }

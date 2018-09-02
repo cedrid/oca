@@ -20,6 +20,7 @@ class JavaTest03A {
         int w =5;
         x = 8;
         short s = 8;
+       
     }
 }
 
